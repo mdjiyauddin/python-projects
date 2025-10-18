@@ -13,3 +13,4 @@ qr.make(fit=True)
 
 img = qr.make_image(fill_color="green", back_color="black")
 img.save("linkedin_qr.png")
+
