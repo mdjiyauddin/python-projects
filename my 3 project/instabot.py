@@ -85,7 +85,7 @@ if user_posts:
     bot.like(user_posts[0])
     print(f"❤️ Liked {target_user}'s recent post!")
 
-# 🔟 Comment on a post                                     ................................ jo comment karna hai wo likh kar username de do 
+# 🔟 Comment on a post                                   ................................ jo comment karna hai wo likh kar username de do 
 
 if user_posts:
     bot.comment(user_posts[0], "🔥 Nice post! Keep it up! #BeastMindset")
