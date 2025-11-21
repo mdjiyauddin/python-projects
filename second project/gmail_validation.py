@@ -25,6 +25,7 @@ if len(email) >= 6:
                 else:
                     print("Correct Email")
 
+            
             else:
                 print("Wrong Email 4 ('.' position incorrect)")
         else:
