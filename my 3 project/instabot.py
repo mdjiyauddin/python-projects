@@ -24,7 +24,7 @@ bot.login(
 
 print("\n✅ Logged in successfully!\n")
 
-# 3️⃣ Follow a user          ...................................... jisko bhi follow karna hai uska username daalo 
+# 3️⃣ Follow a user          ........................................ jisko bhi follow karna hai uska username daalo 
 
 user_to_follow = "example_user_id"  # Replace with the username you want to follow
 bot.follow(user_to_follow)
