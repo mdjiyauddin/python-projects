@@ -1,4 +1,5 @@
 
+
 # Simple Email Sender using Python (smtplib)
 # Author: MD Jiyauddin
 # Description:
@@ -33,6 +34,7 @@ receiver_list = ["receiver1@gmail.com", "receiver2@gmail.com"]
 # Sending the mail
 server.sendmail(sender_email, receiver_list, message)
 print("✅ Email sent successfully!")
+
 
 # Terminate the session
 server.quit()
