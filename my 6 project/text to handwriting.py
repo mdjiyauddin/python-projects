@@ -14,6 +14,7 @@ def txt_to_handwriting(text, font_path, output="output.png"):
         y += 70
     img.save(output)
     print("✅ Saved:", output)
+    
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
