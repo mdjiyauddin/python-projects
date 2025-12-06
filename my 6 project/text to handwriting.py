@@ -5,6 +5,7 @@ def txt_to_handwriting(text, font_path, output="output.png"):
     img = Image.new("RGB", (1654, 2339), (250, 245, 235))     # A4 size background
     draw = ImageDraw.Draw(img)
     font = ImageFont.truetype(font_path, 48)
+    
 
     x, y = 120, 150
     for line in textwrap.wrap(text, width=45):
