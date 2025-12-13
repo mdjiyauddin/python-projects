@@ -65,5 +65,5 @@ def typing_test():
     else:
         print("💪 Practice more to improve your speed and accuracy!")
 
-# Run test
+# Run testing
 typing_test()
