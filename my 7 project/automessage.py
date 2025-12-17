@@ -21,9 +21,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# ------------------------
+# -----------------------
 # Configuration / Globals
-# ------------------------
+# -----------------------
 CHROME_PROFILE = None  # Optional: path to Chrome profile to stay logged in. None uses fresh profile
 WAIT_TIMEOUT = 30      # seconds to wait for elements
 RETRY_COUNT = 2
