@@ -36,9 +36,9 @@ logging.basicConfig(
     handlers=[logging.FileHandler(LOGFILE, encoding='utf-8'), logging.StreamHandler()]
 )
 
-# -------------------------
+# ------------------------
 # WebDriver Setup
-# -------------------------
+# ------------------------
 def create_driver():
     options = webdriver.ChromeOptions()
     # keep browser visible so user can scan QR; don't use headless
