@@ -1,6 +1,6 @@
 
 
-# Simple Email Sender using Python (sm
+# Simple Email Sender using Python (s
 # Author: MD Jiyauddin
 # Description:
 # This script sends an email through Gmail using SMTP protocol.
