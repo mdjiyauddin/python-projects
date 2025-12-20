@@ -2,7 +2,7 @@ import time
 import random
 
 # ----------------------------
-# Typing Speed Test by MD. Jiyauddin
+# Typing Speed Test by MD. Jiyauddin 
 # ----------------------------
 
 sentences = [
