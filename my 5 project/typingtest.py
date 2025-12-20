@@ -3,7 +3,7 @@ import random
 
 # -----------------------------
 # Typing Speed Test by MD. Jiyauddin
-# -----------------------------
+# ----------------------------
 
 sentences = [
     "Practice makes a man perfect.",
