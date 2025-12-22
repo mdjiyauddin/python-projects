@@ -30,5 +30,5 @@ def update_time():
 #  Start the clock
 update_time()
 
-#  Run window
+# Run window
 clock.mainloop()
