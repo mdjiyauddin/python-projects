@@ -27,7 +27,7 @@ def update_time():
     date_label.config(text=current_date)
     clock.after(1000, update_time)  #  update every 1 second
 
-#  Start the clock
+# Start the clock
 update_time()
 
 # Run window
