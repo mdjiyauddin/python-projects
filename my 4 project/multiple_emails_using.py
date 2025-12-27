@@ -1,4 +1,3 @@
-
 # Simple Email Sender using Python 
 # Author: MD Jiyauddin
 # Description:
