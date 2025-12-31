@@ -111,9 +111,9 @@ def job_send(driver, phone, message, name=None):
     else:
         logging.error("Job failed for %s", name)
 
-# ------------------------
+# -----------------------
 # Read CSV & schedule
-# ------------------------
+# -----------------------
 def load_and_schedule(driver, csv_path="contacts.csv"):
     df = pd.read_csv(csv_path, dtype=str).fillna("")
     # expected columns: name, phone, message, time, send_now
