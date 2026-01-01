@@ -11,7 +11,7 @@ clock.config(bg="light green")
 title_label = Label(clock, text="Digital Clock", font=("times new roman", 50, "bold"), bg="yellow", fg="red")
 title_label.pack(pady=40)
 
-# Time display label
+#  Time display label
 time_label = Label(clock, font=("ds-digital", 100, "bold"), bg="yellow", fg="blue")
 time_label.pack(pady=50)
 
