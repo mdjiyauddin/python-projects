@@ -1,7 +1,7 @@
 from tkinter import *
 import time
 
-#  Create main window  
+# Create main window  
 clock = Tk()
 clock.title("***** Digital Clock *****")
 clock.geometry("1000x500")
