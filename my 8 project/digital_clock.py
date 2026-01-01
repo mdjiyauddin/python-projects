@@ -7,7 +7,7 @@ clock.title("***** Digital Clock *****")
 clock.geometry("1000x500")
 clock.config(bg="light green")
 
-# Heading label
+#   Heading label
 title_label = Label(clock, text="Digital Clock", font=("times new roman", 50, "bold"), bg="yellow", fg="red")
 title_label.pack(pady=40)
 
