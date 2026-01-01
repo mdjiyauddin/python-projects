@@ -15,7 +15,7 @@ title_label.pack(pady=40)
 time_label = Label(clock, font=("ds-digital", 100, "bold"), bg="yellow", fg="blue")
 time_label.pack(pady=50)
 
-# Date display label
+#  Date display label
 date_label = Label(clock, font=("times new roman", 30, "bold"), bg="yellow", fg="green")
 date_label.pack()
 
