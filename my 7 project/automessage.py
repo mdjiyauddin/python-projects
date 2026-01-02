@@ -67,7 +67,7 @@ def wait_for_login(driver):
 
 # -----------------------
 # Send message function
-# ------------------------
+# -----------------------
 def send_message(driver, phone, message, wait_for_open=10):
     """
     phone: in +XXXXXXXXX format
