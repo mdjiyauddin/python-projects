@@ -49,7 +49,7 @@ def create_driver():
     driver = webdriver.Chrome(service=service, options=options)
     return driver
 
-# -------------------------
+# ------------------------
 # Wait until user logged in
 # -------------------------
 def wait_for_login(driver):
