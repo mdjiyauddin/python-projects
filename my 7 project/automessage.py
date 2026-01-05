@@ -51,7 +51,7 @@ def create_driver():
 
 # ------------------------
 # Wait until user logged in
-# -------------------------
+# ------------------------
 def wait_for_login(driver):
     logging.info("Opening WhatsApp Web... Please scan QR in the opened browser if not already logged in.")
     driver.get("https://web.whatsapp.com/")
