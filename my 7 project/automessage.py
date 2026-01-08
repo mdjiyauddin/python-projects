@@ -119,6 +119,7 @@ def job_send(driver, phone, message, name=None):
 # --------------------
 # Read CSV & schedule
 # --------------------
+
 def load_and_schedule(driver, csv_path="contacts.csv"):
     df = pd.read_csv(csv_path, dtype=str).fillna("")
     # expected columns: name, phone, message, time, send_now
