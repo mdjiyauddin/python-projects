@@ -167,6 +167,7 @@ def main():
     load_and_schedule(driver, csv_path="contacts.csv")
 
     # run pending scheduled jobs
+    
     logging.info("Scheduler started. Press Ctrl+C to stop.")
     try:
         while True:
