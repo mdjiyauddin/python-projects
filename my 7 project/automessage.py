@@ -40,6 +40,7 @@ logging.basicConfig(
 # -------------------
 # WebDriver Setup
 # -------------------
+
 def create_driver():
     options = webdriver.ChromeOptions()
     # keep browser visible so user can scan QR; don't use headless
