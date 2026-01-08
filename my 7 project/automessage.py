@@ -145,7 +145,7 @@ def load_and_schedule(driver, csv_path="contacts.csv"):
         else:
             logging.info("No schedule or immediate flag for %s — skipping.", name)
 
-# -------------------------
+# ------------------------
 # Main
 # -------------------------
 def main():
