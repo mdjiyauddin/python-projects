@@ -106,6 +106,7 @@ def send_message(driver, phone, message, wait_for_open=10):
 # ------------------------
 # Job wrapper (for scheduler)
 # ------------------------
+
 def job_send(driver, phone, message, name=None):
     name = name or phone
     logging.info("Job started for %s", name)
