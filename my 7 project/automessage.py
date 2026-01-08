@@ -147,7 +147,7 @@ def load_and_schedule(driver, csv_path="contacts.csv"):
 
 # ------------------------
 # Main
-# -------------------------
+# ------------------------
 def main():
     driver = create_driver()
     try:
