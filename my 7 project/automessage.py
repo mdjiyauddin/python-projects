@@ -46,7 +46,6 @@ def create_driver():
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=options)
     return driver
-
 # ------------------------
 # Wait until user logged in
 # ------------------------
