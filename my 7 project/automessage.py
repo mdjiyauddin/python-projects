@@ -94,7 +94,6 @@ def send_message(driver, phone, message, wait_for_open=10):
             else:
                 logging.error("All retries failed for %s", phone)
                 return False
-
 # ------------------------
 # Job wrapper (for scheduler)
 # ------------------------
