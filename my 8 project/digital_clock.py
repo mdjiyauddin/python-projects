@@ -33,6 +33,7 @@ def update_time():
     clock.after(1000, update_time)  #update every 1 second
 
 # Start the clock
+
 update_time()
 
 # Run window
