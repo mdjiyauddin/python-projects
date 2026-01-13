@@ -24,6 +24,7 @@ date_label = Label(clock, font=("times new roman", 30, "bold"), bg="yellow", fg=
 date_label.pack()
 
 #  Function to update time every second
+
 def update_time():
     current_time = time.strftime("%H:%M:%S %p")    # Hour:Minute:Second AM/PM
     current_date = time.strftime("%A, %d %B %Y")    # Day Date Month Year
