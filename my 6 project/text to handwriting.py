@@ -7,7 +7,6 @@ def txt_to_handwriting(text, font_path, output="output.png"):
     font = ImageFont.truetype(font_path, 48)
 
     
-
     x, y = 120, 150
     for line in textwrap.wrap(text, width=45):
         jitter = random.randint(-2, 2)
