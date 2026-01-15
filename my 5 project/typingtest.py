@@ -16,7 +16,6 @@ sentences = [
     "Discipline is the bridge between goals and accomplishment."
 ]
 
-
 def typing_test():
     print("="*60)
     print("           🧠 Welcome to Typing Speed Test 🧠")
