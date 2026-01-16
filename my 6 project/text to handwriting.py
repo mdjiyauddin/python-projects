@@ -19,7 +19,6 @@ if __name__ == "__main__":
         print("Use: python txt_to_handwriting.py input.txt font.ttf")
         sys.exit()
 
-
     txt_path, font_path = sys.argv[1], sys.argv[2]
     with open(txt_path, "r", encoding="utf-8") as f:
         content = f.read()
