@@ -14,7 +14,6 @@ def txt_to_handwriting(text, font_path, output="output.png"):
     img.save(output)
     print("✅ Saved:", output)
     
-
 if __name__ == "__main__":
     if len(sys.argv) < 3:
         print("Use: python txt_to_handwriting.py input.txt font.ttf")
