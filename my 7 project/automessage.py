@@ -59,6 +59,7 @@ def create_driver():
 def wait_for_login(driver):
     logging.info("Opening WhatsApp Web... Please scan QR in the opened browser if not already logged in.")
     driver.get("https://web.whatsapp.com/")
+    
     # Wait until main UI is loaded: look for the search box or the main app div
     try:
         WebDriverWait(driver, 300).until(
