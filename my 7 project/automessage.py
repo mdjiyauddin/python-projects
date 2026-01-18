@@ -36,6 +36,7 @@ logging.basicConfig(
     format="%(asctime)s [%(levelname)s] %(message)s",
     handlers=[logging.FileHandler(LOGFILE, encoding='utf-8'), logging.StreamHandler()]
 )
+
 # -------------------
 # WebDriver Setup
 # -------------------
