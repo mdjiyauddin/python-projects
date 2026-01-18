@@ -43,6 +43,7 @@ logging.basicConfig(
 
 def create_driver():
     options = webdriver.ChromeOptions()
+    
     # keep browser visible so user can scan QR; don't use headless
     options.add_argument("--start-maximized")
     if CHROME_PROFILE:
