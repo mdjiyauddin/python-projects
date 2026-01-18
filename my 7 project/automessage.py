@@ -6,6 +6,7 @@ Simple WhatsApp Web automator:
 Requirements: selenium, webdriver-manager, pandas, schedule
 """
 
+
 import time
 import logging
 import urllib.parse
