@@ -3,7 +3,7 @@ from time import strftime
 
 root = tk.Tk()
 
-# title for  Digit  clock 
+# title for  Digital clock 
 root.title("Digital Clock")
 
 def time():
