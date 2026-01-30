@@ -9,13 +9,14 @@ def check_winner():
       buttons[combo[2]].config(bg="lightgreen")
       massagebox.showinfo("Game Over", f"Player {buttons[combo[0]]['text']} wins!")
       root.quit()
- 
+
+
 def button_click(index):
   if buttons[index]['text'] == " " and not game_over[0]:
     buttons[index]['text'] = current_player[0]
     check_winner()
     toggle_player()
-
+ 
 def toggle_player():
   global current_player
   current_player[0] = "O" if current_player[0] == "X" else "X"
