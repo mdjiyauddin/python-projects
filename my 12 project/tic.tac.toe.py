@@ -12,7 +12,6 @@ def check_winner():
       root.quit()
 
 
-
 def button_click(index):
   if buttons[index]['text'] == " " and not game_over[0]:
     buttons[index]['text'] = current_player[0]
