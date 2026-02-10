@@ -20,7 +20,6 @@ def button_click(index):
     toggle_player()
 
 
-
 def toggle_player():
   global current_player
   current_player[0] = "O" if current_player[0] == "X" else "X"
