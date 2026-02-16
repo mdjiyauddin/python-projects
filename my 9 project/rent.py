@@ -18,6 +18,7 @@ food = int(input("Enter the amount spend on food: "))
 # Electricity unit spend ......
 electricity_spend = int(input("Enter the electricity unit spend: "))
 
+
 # per unit charge ......
 charge_per_unit = int(input("Enter the charge per unit "))
 
