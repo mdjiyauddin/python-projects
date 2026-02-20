@@ -1,6 +1,7 @@
 import tkinter as tk
 from time import strftime
 
+
 root = tk.Tk()
 
 # title for  Digital clock 
