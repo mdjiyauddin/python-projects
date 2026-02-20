@@ -13,6 +13,7 @@ def time():
     label.config(text=string)
     label.after(1000, time)
 
+
 label = tk.Label(root, font=('calibri', 80, 'bold'), background='purple', foreground='white')
 label.pack(anchor='center')
 
