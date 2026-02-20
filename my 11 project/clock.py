@@ -8,7 +8,6 @@ root = tk.Tk()
 
 root.title("Digital Clock")
 
-
 def time():
     string = strftime('%H:%M:%S %p')
     label.config(text=string)
