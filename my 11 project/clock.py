@@ -18,7 +18,6 @@ def time():
 label = tk.Label(root, font=('calibri', 80, 'bold'), background='purple', foreground='white')
 label.pack(anchor='center')
 
-
 time()
 
 root.mainloop()
