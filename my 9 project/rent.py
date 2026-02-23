@@ -11,6 +11,7 @@
 # total rent ...
 rent = int(input("Eneter the total rent amount: " ))
 
+
 # total food cost .....
 food = int(input("Enter the amount spend on food: "))
 
