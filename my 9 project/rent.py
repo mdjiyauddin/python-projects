@@ -24,6 +24,7 @@ electricity_spend = int(input("Enter the electricity unit spend: "))
 # per unit charge ......
 charge_per_unit = int(input("Enter the charge per unit "))
 
+
 # per person spent .........
 person = int(input("Enter the number of persons living in room/flat = "))
 
