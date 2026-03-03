@@ -34,7 +34,6 @@ print(f"User choise is : {user_choise}, Computer choise is : {computer_choise}")
 
 # user choices nad computer choices........................................
 
-
 if user_choise == computer_choise:
     print("Both chooses same : match Tie")
 
