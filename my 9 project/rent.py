@@ -6,7 +6,6 @@
 
 # Electricity unit spend .....
 
-
 # Charge par unit 
 
 # per person spent .........
