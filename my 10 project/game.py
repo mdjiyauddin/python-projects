@@ -8,7 +8,6 @@
 # result is compared with user input
 
 
-
 #case 1: user input is correct
 #  Rock - Rock  -> Tie
 # Rock - Paper -> Computer wins
