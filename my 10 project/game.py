@@ -1,6 +1,5 @@
 #########  
 
-
 #########  WORKFLOW OF THE GAME PROJECT  
 #########
 # first input from user 
