@@ -5,7 +5,7 @@
 # Description: This script automates Instagram tasks such as:
 # login, follow/unfollow, send messages, upload photo,
 # view followers/following, like and comment on posts.
-# -----------------------------------------------------
+# ----------------------------------------------------
 
 # Importing Instabot library    .......................... isko pip install instabot kar ke install karo
 from instabot import Bot
