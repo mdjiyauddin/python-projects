@@ -11,6 +11,7 @@
 from instabot import Bot
 import time
 
+
 # 1️⃣ Create a bot instance
 
 bot = Bot()
