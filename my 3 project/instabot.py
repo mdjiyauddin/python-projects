@@ -1,6 +1,6 @@
 # ---------------------------------------------------
 # 📱 Instagram Automation using Instabot
-# ----------------------------------------------------
+# ---------------------------------------------------
 # Author: MD Jiyauddin
 # Description: This script automates Instagram tasks such as:
 # login, follow/unfollow, send messages, upload photo,
