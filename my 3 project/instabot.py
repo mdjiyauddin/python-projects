@@ -7,7 +7,7 @@
 # view followers/following, like and comment on posts.
 # ----------------------------------------------------
 
-# Importing Instabot library    .......................... isko pip install instabot kar ke install karo
+# Importing Instabot library       ......................... isko pip install instabot kar ke install karo
 from instabot import Bot
 import time
 
