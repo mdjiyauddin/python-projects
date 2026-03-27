@@ -3,7 +3,7 @@
 # Author: MD Jiyauddin
 # Description:
 # This script sends an email through Gmail using SMTP protocol.
-# It demonstrates basic email automation using P
+# It demonstrates basic email automation using 
 
 
 import smtplib as s
