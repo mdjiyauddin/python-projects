@@ -36,6 +36,7 @@ def typing_test():
     typed = input("\n⏩ Start typing here: \n")
     end_time = time.time()
 
+    
     total_time = end_time - start_time
     time_in_minutes = total_time / 60
 
