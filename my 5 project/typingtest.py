@@ -24,6 +24,7 @@ def typing_test():
     input("👉 Press Enter to start the test...")
 
     # Random sentence
+    
     sentence = random.choice(sentences)
     print("\n📝 Type this sentence below:\n")
     print(f"➡️ {sentence}")
