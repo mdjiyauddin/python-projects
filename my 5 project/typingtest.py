@@ -30,6 +30,7 @@ def typing_test():
     print(f"➡️ {sentence}")
     print("\nWhen you are ready, press Enter and start typing...")
 
+    
     input("\nPress Enter to start typing...")
     start_time = time.time()
     typed = input("\n⏩ Start typing here: \n")
