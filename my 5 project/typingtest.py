@@ -46,6 +46,7 @@ def typing_test():
     typed_words = typed.split()
     correct_words = 0
 
+    
     for i in range(min(len(words), len(typed_words))):
         if words[i] == typed_words[i]:
             correct_words += 1
