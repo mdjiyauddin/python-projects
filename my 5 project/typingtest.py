@@ -70,4 +70,5 @@ def typing_test():
         print("💪 Practice more to improve your speed and accuracy!")
 
 # Run test
+
 typing_test()
