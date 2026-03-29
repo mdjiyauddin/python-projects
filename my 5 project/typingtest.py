@@ -49,6 +49,7 @@ def typing_test():
     wpm = len(typed_words) / time_in_minutes
     cpm = len(typed) / time_in_minutes
 
+    
     print("\n" + "="*60)
     print("📊 Typing Test Result:")
     print("="*60)
