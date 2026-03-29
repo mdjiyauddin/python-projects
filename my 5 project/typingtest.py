@@ -39,6 +39,7 @@ def typing_test():
     time_in_minutes = total_time / 60
 
     # Word per minute calculation
+    
     words = sentence.split()
     typed_words = typed.split()
     correct_words = 0
