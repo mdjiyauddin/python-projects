@@ -51,6 +51,7 @@ def typing_test():
         if words[i] == typed_words[i]:
             correct_words += 1
 
+    
     accuracy = (correct_words / len(words)) * 100
     wpm = len(typed_words) / time_in_minutes
     cpm = len(typed) / time_in_minutes
