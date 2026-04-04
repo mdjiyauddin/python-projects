@@ -27,7 +27,7 @@ charge_per_unit = int(input("Enter the charge per unit "))
 
 
 
-# per person spent ......
+# per person spent .....
 person = int(input("Enter the number of persons living in room/flat = "))
 
 
