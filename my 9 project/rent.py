@@ -18,7 +18,7 @@ rent = int(input("Eneter the total rent amount: " ))
 food = int(input("Enter the amount spend on food: "))
 
 
-# Electricity unit spend ......
+# Electricity unit spend .....
 electricity_spend = int(input("Enter the electricity unit spend: "))
 
 
