@@ -25,6 +25,7 @@ def toggle_player():
 
 
 root = tk.Tk()
+
 root.title("Tic Tac Toe")
 
 buttons = [tk.Button(root, text=" ", font=('normal', 40), width=5, height=2,
