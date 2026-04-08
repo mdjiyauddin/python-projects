@@ -21,7 +21,6 @@
 # Scissors - Rock -> Computer wins
 # Scissors - Paper -> User wins
 
-
 #########################################
 
 
