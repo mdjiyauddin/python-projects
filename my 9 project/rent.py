@@ -39,5 +39,5 @@ total_bill = electricity_spend * charge_per_unit
 total_spend = ( rent + food + total_bill) // person 
 
 
-# final output ........
+# final output .......
 print("total spend per person" , total_spend)
