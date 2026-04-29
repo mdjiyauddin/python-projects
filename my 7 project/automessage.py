@@ -65,7 +65,7 @@ def wait_for_login(driver):
     except Exception as e:
         logging.error("Timed out waiting for WhatsApp Web login/ready: %s", e)
         raise
-
+#..........................
 # Send message function
 # -------------------------
 def send_message(driver, phone, message, wait_for_open=10):
