@@ -34,5 +34,5 @@ receiver_list = ["receiver1@gmail.com", "receiver2@gmail.com"]
 server.sendmail(sender_email, receiver_list, message)
 print("✅ Email sent successfully!")
 
-# Terminate the session
+# Terminate the sessi
 server.quit()
