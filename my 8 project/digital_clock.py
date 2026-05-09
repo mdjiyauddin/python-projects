@@ -32,5 +32,5 @@ def update_time():
 # Start the clock
 update_time()
 
-# Run wi
+# Run w
 clock.mainloop()
