@@ -31,7 +31,7 @@ charge_per_unit = int(input("Enter the charge per unit "))
 person = int(input("Enter the number of persons living in room/flat = "))
 
 
-# total bill charge per unit ....
+# total bill charge per unit ......
 total_bill = electricity_spend * charge_per_unit
 
 
