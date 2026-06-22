@@ -1,7 +1,7 @@
 #########  
 
 #########  WORKFLOW OF THE GAME PROJECT  
-#########sdfgsdfgsdgdf
+#########sdfgsdfgsdgdffgfg
 
 # first input from user 
 # computer generates random number
