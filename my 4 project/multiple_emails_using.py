@@ -13,7 +13,7 @@ server = s.SMTP('smtp.gmail.com', 587)
 server.ehlo()        # Identify yourself to the server
 server.starttls()    # Secure the connection
 
-# Login credentials......
+# Login credentials...........
 sender_email = "your_email@gmail.com"
 password = "your_app_password"
 
