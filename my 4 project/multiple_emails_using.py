@@ -8,7 +8,7 @@
 
 import smtplib as s
 
-# Create an SMTP session
+# Create an SMTP session...
 server = s.SMTP('smtp.gmail.com', 587)
 server.ehlo()        # Identify yourself to the server
 server.starttls()    # Secure the connection
