@@ -17,7 +17,7 @@ server.starttls()    # Secure the connection
 sender_email = "your_email@gmail.com"
 password = "your_app_password"
 
-# Login to Gmail..........
+# Login to Gmail..............
 server.login(sender_email, password)
 
 # Email details
