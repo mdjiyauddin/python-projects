@@ -17,7 +17,7 @@
 # Paper - Rock -> User wins
 # Paper - Scissors -> Computer wins
 
-# case 3 Scissors......
+# case 3 Scissors........
 # Scissors - Scissors -> Tie
 # Scissors - Rock -> Computer wins
 # Scissors - Paper -> User wins
