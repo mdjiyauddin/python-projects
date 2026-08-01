@@ -27,7 +27,7 @@ body = "I love Python ❤️"
 # Message formatting..........
 message = f"Subject: {subject}\n\n{body}"
 
-# List of recipients
+# List of recipients...........
 receiver_list = ["receiver1@gmail.com", "receiver2@gmail.com"]
 
 # Sending the mail
