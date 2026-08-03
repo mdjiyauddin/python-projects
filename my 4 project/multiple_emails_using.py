@@ -30,7 +30,7 @@ message = f"Subject: {subject}\n\n{body}"
 # List of recipients.............
 receiver_list = ["receiver1@gmail.com", "receiver2@gmail.com"]
 
-# Sending the mail
+# Sending the mail....
 server.sendmail(sender_email, receiver_list, message)
 print("✅ Email sent successfully!")
 
